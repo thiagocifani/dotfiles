@@ -16,6 +16,6 @@ class Object
   end
 
   def find_ben
-    User.find_by_email 'ben@thoughtbot.com'
+    User.find_by_email 'cifani.thiago@gmail.com'
   end
 end
